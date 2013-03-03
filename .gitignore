@@ -19,3 +19,5 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+play.h2.db
+play.trace.db
